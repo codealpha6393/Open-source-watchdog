@@ -1,8 +1,8 @@
 # 🦅 GSOC Watchdog
 ### The Automated "Good First Issue" Hunter for GSOC Aspirants
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
-*(Replace this link with a screenshot of your Motia Dashboard showing the green success logs!)*
+![Project Screenshot](/gsoc.png)
+
 
 ## 💡 The Inspiration
 As a Computer Science student preparing for **Google Summer of Code (GSOC) 2026**, I realized the biggest pain point is finding "Good First Issues" before other contributors claim them. Manually refreshing GitHub pages is inefficient and distracting.
