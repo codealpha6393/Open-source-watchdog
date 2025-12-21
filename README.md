@@ -1,7 +1,7 @@
 # 🦅 GSOC Watchdog
 ### The Automated "Good First Issue" Hunter for GSOC Aspirants
 
-![Project Screenshot](/gsoc.png)
+![Project Screenshot](/image.png)
 
 
 ## 💡 The Inspiration
