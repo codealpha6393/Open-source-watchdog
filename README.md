@@ -3,7 +3,7 @@
 
 ![Project Screenshot](/image.png)
 
-##Core Engineering:
+## Core Engineering:
 
 **Rate Limiting:** Implemented intelligent polling intervals to respect GitHub API limits (403 Forbidden prevention).
 
