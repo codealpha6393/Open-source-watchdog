@@ -3,6 +3,13 @@
 
 ![Project Screenshot](/image.png)
 
+##Core Engineering:
+
+**Rate Limiting:** Implemented intelligent polling intervals to respect GitHub API limits (403 Forbidden prevention).
+
+**Event-Driven Architecture:** Decoupled the "Scanner" from the "Notifier" to allow independent scaling.
+
+**Error Handling:** Robust parsing of JSON payloads to prevent crash-loops on malformed data.
 
 ## 💡 The Inspiration
 As a Computer Science student preparing for **Google Summer of Code (GSOC) 2026**, I realized the biggest pain point is finding "Good First Issues" before other contributors claim them. Manually refreshing GitHub pages is inefficient and distracting.
